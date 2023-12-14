@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @saranzafar
-- 👀 I’m interested in web development 
+- 👀 I’m interested in web development and I can do web scraping and coding in C, C++, and Python.
 - 🌱 I’m currently studying at university
 - 💞️ I’m looking for new project
 - 📫 How to reach me saranzafar736@gmail.com
